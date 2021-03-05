@@ -285,7 +285,7 @@ list-style: none; }
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "Lo que proporciono";
+    content: "Proporciono";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -322,7 +322,7 @@ list-style: none; }
 /* skills section styling */
 
 .skills .title::after{
-    content: "Mis conocimientos";
+    content: "Conocimientos";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -493,7 +493,7 @@ list-style: none; }
 }
 .contact .title::after{
     background: #111;
-    content: "Ponerse en contacto";
+    content: "Contacto";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
