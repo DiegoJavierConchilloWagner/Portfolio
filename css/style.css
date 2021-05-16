@@ -86,7 +86,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .navbarH.sticky{
-    padding: 15px 0;
+    padding: 5px 0;
     background: crimson;
 }
 .navbarH .max-width{
@@ -119,6 +119,7 @@ section .title::after{
     margin-left: 25px;
     transition: color 0.3s ease;
     text-decoration: none;
+    margin-top: 14px;
 }
 .navbarH .menu li a:hover{
     color: crimson;
